@@ -1,8 +1,8 @@
 # EX-21-POINTERS
 
-NAME : YASHWANTH K
+NAME : MOHAN KRISHNA J
 
-REG NO : 212224040369
+REG NO : 212223220060
 
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
